@@ -1,6 +1,4 @@
-import pymongo
-ghfghf
-gfgbdfhbgnfvcz
-fgdfhghgfn
-ghnjhgjg
-hjgghj
+def addn(a,b):
+    return a+b
+
+print(addn(5,5))
